@@ -1,8 +1,11 @@
 /**
+
  * 
  */
 package demo;
-
+/**
+ *  This class focuses on the String and int variables.
+ *  */
 
 public class Creator {
 	public static void main(String[] args) {

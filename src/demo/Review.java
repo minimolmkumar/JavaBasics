@@ -4,7 +4,7 @@
 package demo;
 
 /**
- * @author Mini
+ * 
  *
  */
 public class Review{

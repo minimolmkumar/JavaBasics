@@ -4,7 +4,7 @@
 package demo;
 
 /**
- * @author Mini
+ * @author M
  * This class focuses on the single line and multi-line comments syntax
  */
 public class Timeline {
